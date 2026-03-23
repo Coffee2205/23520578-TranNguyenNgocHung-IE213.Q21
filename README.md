@@ -4,8 +4,7 @@ Lớp: IE213.Q21.1
 Môn học: IE213.Q21
 ## Danh sách bài thực hành
 - TH1: MongoDB
-- TH2: Express
-- TH3: REST API
+- TH2: Backend + API
 
 Thông tin sinh viên: họ tên, MSSV, lớp
 • Môn học: IE213.Q21
